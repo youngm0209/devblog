@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Different Types of Dementia Screening Tests"
+title:  "Different Types of Dementia Screening Tests: MoCA"
 date:   2022-12-19 21:16:30 -0800
 categories: development
 ---
@@ -11,7 +11,7 @@ reference: Tsoi et al. 2015 [publication link](https://jamanetwork.com/journals/
 ## Introduction
 
 ---
-The Montreal Cognitive Assessment (MoCA) is a test used by healthcare providers to evaluate people with memory loss or other symptoms of cognitive decline. It can help identify those at risk for developing Alzheimer's disease and other forms of dementia. It is also used as a screening tool for conditions like Parkinson's disease, brain tumors, substance abuse, and head trauma.
+The MoCA test, also known as the Montreal Cognitive Assessment, is utilized to detect mild cognitive impairiment (MCI) early on. It serves to identify people who are at risk of developing different types of dementia like Alzheimer's disease or condidtions like Parkinson's disease and brain tumors. The test itself includes 30 questions total which will evaluate whether the person taking the test shows signs of MCI. Although it is a useful test, it does need to be taken with other cognitive tests in order to confirm diagnosis of diseases or conditions.
 
 References:
 
@@ -19,8 +19,8 @@ References:
 
 `Powsner  S, Powsner  D.  Cognition, copyright, and the classroom.  Am J Psychiatry. 2005;162(3):627-628.`
 
-![Table](https://res.cloudinary.com/dbr983cqh/image/upload/v1671515743/Tsoi_Table_fxtidg.png)
-*Table 3. List of Dementia Screening Tests*
+![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1672014371/MoCA_picture_hm1rnl.webp)
+*Image 1. Image of what MoCA tests*
 
 ## Discussions
 
