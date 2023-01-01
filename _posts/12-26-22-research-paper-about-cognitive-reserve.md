@@ -24,3 +24,7 @@ Cognitive reserve ultimately allows individuals to function better when met with
 ---
 
 ### What is Brain Reserve?
+
+Brain reserve refers to the ability of an individual to withstand damage to the brain, either through injury or through the natural process of aging, without experiencing significant cognitive decline. It is believed that individuals with higher levels of education, cognitive stimulation, and physical activity may have a greater brain reserve, as these activities may help to build up the brain's neural networks and increase its resilience. Some researchers believe that brain reserve may be a factor in why some people are able to maintain normal cognitive function despite having brain changes similar to those of Alzheimer's disease.
+
+![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1672616433/004.jpeg_cicabl.jpg)
