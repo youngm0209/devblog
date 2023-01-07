@@ -20,3 +20,5 @@ categories: research
 ---
 
 ### Why these colors?
+
+I tried to create a very calm atmosphere through the color schemes by choosing dull color tones. I hope that it is able to calm the test taker and enable them to get the most accurate results whereas the results could some what change if the color scheme was too distracting and bright.
