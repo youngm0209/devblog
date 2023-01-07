@@ -5,26 +5,18 @@ date:   2022-01-06 12:43:30 -0800
 categories: research
 ---
 
-> Reference: Stern. 2012. Cognitive reserve in ageing and Alzheimer's disease. [publication link](https://pubmed.ncbi.nlm.nih.gov/23079557/)
-
-## Cognitive Reserve
+## Mini-Cog
 
 ---
 
-### What is Cognitive Reserve?
+### What is Mini-Cog?
 
-Cognitive reserve is one's brain's ability to approach a task in various ways and change how the brain operates when met with that task. This concept of cognitive reserve emerged in the the 1980s when scientists found people with no signs of dementia but displayed changes of the brain that looked very similar to those that would advance dementia: these individuals were able to live normally because of their large cognitive reserve.
+The Mini-Cog is a cognitive screening tool used to detect cognitive impairment. It consists of a three-item recall task and a clock drawing test. The recall task involves the patient repeating back a list of three words immediately and again after a brief delay. The clock drawing test involves the patient drawing a clock face with all the numbers in their correct positions and setting the hands to a specific time. The Mini-Cog is a quick and easy tool for healthcare professionals to use in a clinical setting to identify patients who may need further evaluation for cognitive problems.
 
-![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1672614552/fnagi-10-00189-g001_yfo46x.jpg)
-
-Cognitive reserve ultimately allows individuals to function better when met with unexpected life situations and also succumb slower to the changes that occur with dementia and other brain-related conditions.
-
-## Brain Reserve
+![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1673063545/download_ykszam.png)
 
 ---
 
-### What is Brain Reserve?
+### How does it compare with other cognitive tests?
 
-Brain reserve refers to the ability of an individual to withstand damage to the brain, either through injury or through the natural process of aging, without experiencing significant cognitive decline. It is believed that individuals with higher levels of education, cognitive stimulation, and physical activity may have a greater brain reserve, as these activities may help to build up the brain's neural networks and increase its resilience. Some researchers believe that brain reserve may be a factor in why some people are able to maintain normal cognitive function despite having brain changes similar to those of Alzheimer's disease.
-
-![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1672616433/004.jpeg_cicabl.jpg)
+There are many different cognitive screening tools that are used to detect cognitive impairment in older adults, and each has its own strengths and limitations. The Mini-Cog is a quick and easy tool that can be administered in a few minutes, making it useful in busy clinical settings. It is also relatively simple to score and interpret, which makes it easy for healthcare professionals to use. When compared to the MMSE which has numerous different tasks, it serves as a very simple way to tell if a person has dementia or not.
