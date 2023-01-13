@@ -7,6 +7,8 @@ categories: research
 
 ## Color Scheme
 
+![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1673644899/Screen_Shot_2023-01-13_at_1.19.14_PM_nxk2gz.png)
+
 -the slightly off-white primary color goes with a lot of different colors but still gives a more aesthetic/warmer vibe when compared to just plain white
 green allows the user to maintain a calm feeling/vibe
 
@@ -16,16 +18,17 @@ green allows the user to maintain a calm feeling/vibe
 
 -brighter colors (ex: bright red when getting something wrong) may also discourage the user and make them feel a bit bad
 
-![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1673644899/Screen_Shot_2023-01-13_at_1.19.14_PM_nxk2gz.png)
-
 ---
 
 ## Format
 
+![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1673645147/Screen_Shot_2023-01-13_at_1.25.11_PM_kaxjbk.png)
 
+I chose to make the corners of the boxes a bit rounder to make a softer look rather than harsh edges. This goes along with my efforts to make a calming atmosphere for the app.
 
 ---
 
-### Why these colors?
+### Logo
 
-I tried to create a very calm atmosphere through the color schemes by choosing dull color tones. I hope that it is able to calm the test taker and enable them to get the most accurate results whereas the results could some what change if the color scheme was too distracting and bright.
+![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1673648672/Screen_Shot_2023-01-13_at_2.23.57_PM_aj8u8l.png)
+
