@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Mini-Cog and how does it differ from other cognitive tests?"
-date:   2022-01-06 12:43:30 -0800
+date:   2023-01-06 12:43:30 -0800
 categories: research
 ---
 
