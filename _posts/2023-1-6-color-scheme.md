@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Color Scheme"
-date:   2022-01-06 12:43:30 -0800
+date:   2023-01-06 12:43:30 -0800
 categories: research
 ---
 
