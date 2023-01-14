@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "App Structure"
-date:   2022-01-13 12:43:30 -0800
+date:   2023-01-13 12:43:30 -0800
 categories: research
 ---
 
@@ -32,3 +32,4 @@ I chose to make the corners of the boxes a bit rounder to make a softer look rat
 
 ![Image](https://res.cloudinary.com/dbr983cqh/image/upload/v1673648672/Screen_Shot_2023-01-13_at_2.23.57_PM_aj8u8l.png)
 
+I tried to make a logo with my color scheme to match with the appearance of the app if it were to use my color scheme. I also put a lightning in the middle of the brain to symbolize the quick/speedy nature of the mini-cog test.
