@@ -11,15 +11,15 @@ categories: research
 
 ### What is the mission of our app?
 
-##### Who is our target demographic?
+#### Who is our target demographic?
 
-##### How did we accomodate our app to match that demographic?
+#### How did we accomodate our app to match that demographic?
 
 ## What kind of apps already exist?
 
 ---
 
-#### How do those apps differ from ours?
+### How do those apps differ from ours?
 
 ## Why use the Mini-Cog Test?
 
